@@ -1,3 +1,6 @@
+## <a href="https://vercel.com/venkatasurya777/airbnb-2-0" target="_blank">DEPLOYED LIVE LINK</a>
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
