@@ -1,4 +1,4 @@
-## <a href="https://airbnb-2-0-7jnnspd19-venkatasurya777.vercel.app/" target="_blank">DEPLOYED LIVE LINK</a>
+## <a href="https://airbnb-2-0-7jnnspd19-venkatasurya777.vercel.app/" target="_blank">DEPLOYED LIVE DEMO LINK</a>
 
 
 # Next.js + Tailwind CSS Example
